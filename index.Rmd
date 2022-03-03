@@ -1,9 +1,6 @@
 ---
-title: "Bienvenue !"
-image: "Photo_AR.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
+title: "Anaïs Rouanet"
+image: "Photo_AR2.png"
 links:
   - label: GitHub
     url: "https://github.com/anarouanet/"
@@ -14,14 +11,38 @@ links:
   - label: Email
     url: "anais.rouanet@u-bordeaux.com"
 output:
-  postcards::onofre
+  postcards::trestles
 ---
  
-Hello c'est moi ! Vous trouverez toutes les infos concernant ma recherche via les onglets suivants:
+## Bio
 
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
 
-### Education
+## Education
 
+**Ph.D. in Public Health - Biostatistics** | Bordeaux, France
 
-### Professional experiences
+Bordeaux University, Bordeaux Population Health research center, Inserm U1219 | 2013 - 2016
 
+**Master 2: Biostatistics, Bioinformatics, Biomathematics and Health** | Lyon, France
+
+Claude Bernard Lyon I University | 2012 - 2013
+
+**Engineering School Diploma** | Marseille, France
+
+Ecole Centrale Marseille | 2010 - 2013
+
+## Experience
+
+**Research Associate** | 2019 - Present
+
+Bordeaux Population Health research center, Inserm U1219
+
+**Research Associate** | 2017 - 2019
+
+Biostatistics Unit, Institute of Public Health, Cambridge University, the UK
