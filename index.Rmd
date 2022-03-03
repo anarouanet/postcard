@@ -1,0 +1,27 @@
+---
+title: "Bienvenue !"
+image: "Photo_AR.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: GitHub
+    url: "https://github.com/anarouanet/"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Anais-Rouanet-2/"
+  - label: Bordeaux Population Health
+    url: "https://www.bordeaux-population-health.center/profile/anais-rouanet/"
+  - label: Email
+    url: "anais.rouanet@u-bordeaux.com"
+output:
+  postcards::onofre
+---
+ 
+Hello c'est moi ! Vous trouverez toutes les infos concernant ma recherche via les onglets suivants:
+
+
+### Education
+
+
+### Professional experiences
+
